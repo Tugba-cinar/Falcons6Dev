@@ -1,0 +1,1 @@
+TurkishLesson2 t = new TurkishLesson2();
